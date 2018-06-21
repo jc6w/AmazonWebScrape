@@ -1,0 +1,15 @@
+C:\Users\JC5044528\Desktop\Test2\Test2\bin\Debug\chromedriver.exe
+C:\Users\JC5044528\Desktop\Test2\Test2\bin\Debug\chromedriver-license.txt
+C:\Users\JC5044528\Desktop\Test2\Test2\bin\Debug\Test2.exe.config
+C:\Users\JC5044528\Desktop\Test2\Test2\bin\Debug\Test2.exe
+C:\Users\JC5044528\Desktop\Test2\Test2\bin\Debug\Test2.pdb
+C:\Users\JC5044528\Desktop\Test2\Test2\bin\Debug\AngleSharp.dll
+C:\Users\JC5044528\Desktop\Test2\Test2\bin\Debug\EPPlus.dll
+C:\Users\JC5044528\Desktop\Test2\Test2\bin\Debug\WebDriver.dll
+C:\Users\JC5044528\Desktop\Test2\Test2\bin\Debug\WebDriverManager.dll
+C:\Users\JC5044528\Desktop\Test2\Test2\bin\Debug\AngleSharp.xml
+C:\Users\JC5044528\Desktop\Test2\Test2\bin\Debug\EPPlus.xml
+C:\Users\JC5044528\Desktop\Test2\Test2\bin\Debug\WebDriver.xml
+C:\Users\JC5044528\Desktop\Test2\Test2\obj\Debug\Test2.csprojResolveAssemblyReference.cache
+C:\Users\JC5044528\Desktop\Test2\Test2\obj\Debug\Test2.exe
+C:\Users\JC5044528\Desktop\Test2\Test2\obj\Debug\Test2.pdb

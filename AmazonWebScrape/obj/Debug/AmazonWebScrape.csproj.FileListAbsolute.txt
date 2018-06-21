@@ -1,0 +1,16 @@
+C:\Users\JC5044528\Desktop\Test2\Test2\bin\Debug\AmazonWebScrape.exe.config
+C:\Users\JC5044528\Desktop\AmazonWebScrape\AmazonWebScrape\bin\Debug\AmazonWebScrape.exe.config
+C:\Users\JC5044528\Desktop\AmazonWebScrape\AmazonWebScrape\bin\Debug\chromedriver.exe
+C:\Users\JC5044528\Desktop\AmazonWebScrape\AmazonWebScrape\bin\Debug\chromedriver-license.txt
+C:\Users\JC5044528\Desktop\AmazonWebScrape\AmazonWebScrape\bin\Debug\AmazonWebScrape.exe
+C:\Users\JC5044528\Desktop\AmazonWebScrape\AmazonWebScrape\bin\Debug\AmazonWebScrape.pdb
+C:\Users\JC5044528\Desktop\AmazonWebScrape\AmazonWebScrape\bin\Debug\AngleSharp.dll
+C:\Users\JC5044528\Desktop\AmazonWebScrape\AmazonWebScrape\bin\Debug\EPPlus.dll
+C:\Users\JC5044528\Desktop\AmazonWebScrape\AmazonWebScrape\bin\Debug\WebDriver.dll
+C:\Users\JC5044528\Desktop\AmazonWebScrape\AmazonWebScrape\bin\Debug\WebDriverManager.dll
+C:\Users\JC5044528\Desktop\AmazonWebScrape\AmazonWebScrape\bin\Debug\AngleSharp.xml
+C:\Users\JC5044528\Desktop\AmazonWebScrape\AmazonWebScrape\bin\Debug\EPPlus.xml
+C:\Users\JC5044528\Desktop\AmazonWebScrape\AmazonWebScrape\bin\Debug\WebDriver.xml
+C:\Users\JC5044528\Desktop\AmazonWebScrape\AmazonWebScrape\obj\Debug\AmazonWebScrape.csprojResolveAssemblyReference.cache
+C:\Users\JC5044528\Desktop\AmazonWebScrape\AmazonWebScrape\obj\Debug\AmazonWebScrape.exe
+C:\Users\JC5044528\Desktop\AmazonWebScrape\AmazonWebScrape\obj\Debug\AmazonWebScrape.pdb
